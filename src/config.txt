@@ -1,7 +1,0 @@
-# Lista delle probabilità di generazione dei vari nemici (la somma deve essere 1)
-duck% = 0.85
-goldDuck% = 0.10
-heart% = 0.05
-
-# Il parametro "sfondo" può essere uno dei seguenti: {"giorno", "notte"}
-sfondo = giorno
