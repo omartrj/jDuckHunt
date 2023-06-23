@@ -1,7 +1,7 @@
 # jDuckHunt
 Java project i've made for university, a game based on the famous game Duck Hunt.
 
-========================
+-------------
 Per far partire l'applicazione direttamente dal cmd, vai nella cartella dist
 e digita il comando seguente:
 
